@@ -1,17 +1,17 @@
-# Ciclo de Vida: CI-CD-CD
+# Ciclo de Vida - CI-CD-CD
 
 Contenido:
 
-- [Introducción](../application-lifecicle.md)
-- [Ciclo de vida: Evolución y adaptación](al-evolution-and-adaptation.md)
+- [Introducción](../application-lifecycle.md)
+- [Evolución y adaptación](al-evolution-and-adaptation.md)
 - **CI-CD-CD**
 - [Entregabilidad](al-releasability.md)
-- [Pipeline](al-pipeline.md)
+- [Pipeline](al-pipeline.md): Develop, Build, Test, Deploy, Release
 - [Changelog](al-changelog.md)
 
 Se trata de tres conceptos estrechamente relacionados con el _Ciclo de Vida_:
 
-- CI -  _Continuous Integration_ (Integración Continua): Práctica de desarrollo de software en la que los miembros de un equipo integran su trabajo frecuentemente. El objetivo es detectar fallos cuanto antes.
+- CI - _Continuous Integration_ (Integración Continua): Práctica de desarrollo de software en la que los miembros de un equipo integran su trabajo frecuentemente. El objetivo es detectar fallos cuanto antes.
 
 - CD - _Continuous Delivery_ (Entrega Continua): Enfoque en el desarrollo de software por el que se garantiza que los cambios en el código puedan ser desplegados en cualquier momento en el entorno de producción.
 

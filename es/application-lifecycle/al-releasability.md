@@ -1,12 +1,12 @@
-# Ciclo de vida: Entregabilidad
+# Ciclo de Vida - Entregabilidad
 
 Contenido:
 
-- [Introducción](../application-lifecicle.md)
-- [Ciclo de vida: Evolución y adaptación](al-evolution-and-adaptation.md)
+- [Introducción](../application-lifecycle.md)
+- [Evolución y adaptación](al-evolution-and-adaptation.md)
 - [CI-CD-CD](al-cicdcd.md)
 - **Entregabilidad**
-- [Pipeline](al-pipeline.md)
+- [Pipeline](al-pipeline.md): Develop, Build, Test, Deploy, Release
 - [Changelog](al-changelog.md)
 
 Una actividad muy importante en cualquier aplicación es la entrega, el despliegue o la puesta en producción. Creamos software para ser entregado de alguna forma.

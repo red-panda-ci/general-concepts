@@ -1,12 +1,12 @@
-# Ciclo de vida: Pipeline
+# Ciclo de Vida - Pipeline: Develop, Build, Test, Deploy, Release
 
 Contenido:
 
-- [Introducción](../application-lifecicle.md)
-- [Ciclo de vida: Evolución y adaptación](al-evolution-and-adaptation.md)
+- [Introducción](../application-lifecycle.md)
+- [Evolución y adaptación](al-evolution-and-adaptation.md)
 - [CI-CD-CD](al-cicdcd.md)
 - [Entregabilidad](al-releasability.md)
-- **Pipeline**
+- **Pipeline: Develop, Build, Test, Deploy, Release**
 - [Changelog](al-changelog.md)
 
 Es el proceso definido para gestionar todas las actividades que suceden desde que cambiamos una línea de cóodigo en nuestra aplicación hasta que esos cambios se despliegan en un entorno de producción. Consta de una serie de pasos o etapas, como pueden ser construcción, pruebas, release y despliegue en distintos entornos.

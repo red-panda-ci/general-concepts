@@ -14,7 +14,7 @@ Esta documentación nace para quedar obsoleta: trata sobre una aplicación WEB q
 - [Docker](docker.md)
 - [Sonar](sonar.md)
 - [Calidad](qa.md)
-- [Ciclo de vida](application-lifecicle.md)
+- [Ciclo de Vida](application-lifecycle.md)
 
 ## Créditos
 

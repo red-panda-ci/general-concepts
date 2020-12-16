@@ -3,11 +3,11 @@
 Contenido:
 
 - **Introducción**
-- [Ciclo de vida: Evolución y adaptación](application-lifecicle/al-evolution-and-adaptation.md)
-- [CI-CD-CD](application-lifecicle/al-cicdcd.md)
-- [Entregabilidad](application-lifecicle/al-releasability.md)
-- [Pipeline](application-lifecicle/al-pipeline.md)
-- [Changelog](application-lifecicle/al-changelog.md)
+- [Evolución y adaptación](application-lifecycle/al-evolution-and-adaptation.md)
+- [CI-CD-CD](application-lifecycle/al-cicdcd.md)
+- [Entregabilidad](application-lifecycle/al-releasability.md)
+- [Pipeline](application-lifecycle/al-pipeline.md): Develop, Build, Test, Deploy, Release
+- [Changelog](application-lifecycle/al-changelog.md)
 
 ## Introducción
 
@@ -19,4 +19,4 @@ Es habitual es encontrar el concepto de _Ciclo de Vida_ asociado a una serie de 
 
 ---
 
-Siguiente: [Ciclo de vida: Evolución y adaptación](application-lifecicle/al-evolution-and-adaptation.md) - Ir a la [Página principal](toc.md)
+Siguiente: [Evolución y adaptación](application-lifecycle/al-evolution-and-adaptation.md) - Ir a la [Página principal](toc.md)

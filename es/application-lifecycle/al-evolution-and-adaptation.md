@@ -1,12 +1,12 @@
-# Ciclo de Vida: Evolución y adaptación
+# Ciclo de Vida - Evolución y adaptación
 
 Contenido:
 
-- [Introducción](../application-lifecicle.md)
-- **Ciclo de vida: Evolución y adaptación**
+- [Introducción](../application-lifecycle.md)
+- **Evolución y adaptación**
 - [CI-CD-CD](al-cicdcd.md)
 - [Entregabilidad](al-releasability.md)
-- [Pipeline](al-pipeline.md)
+- [Pipeline](al-pipeline.md): Develop, Build, Test, Deploy, Release
 - [Changelog](al-changelog.md)
 
 ## Ciclo de vida como evolución
