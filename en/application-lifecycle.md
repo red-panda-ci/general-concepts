@@ -1,6 +1,6 @@
 # Lifecycle
 
-Contents:
+Content:
 
 - **Introduction**
 - [Evolution and adaptation](application-lifecycle/al-evolution-and-adaptation.md)

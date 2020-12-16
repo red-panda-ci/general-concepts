@@ -1,4 +1,4 @@
-# Execution envirnoments
+# Execution environments
 
 Content:
 
